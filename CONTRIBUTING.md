@@ -1,18 +1,17 @@
-# Contributor Covenant Code of Conduct
+# Contributing to Project
 
-## Our Pledge
-We as members, contributors, and maintainers pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We love contributions! To help us, here is a short guide.
 
-## Our Standards
-Examples of behavior that contributes to creating a positive environment include:
+## How to Contribute
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
+- Fork the repository.
+- Create a new branch (`git checkout -b feature-branch`).
+- Commit your changes (`git commit -am 'Add a new feature'`).
+- Push to your branch (`git push origin feature-branch`).
+- Open a Pull Request (PR) to the main repository.
 
-## Our Responsibilities
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+## Reporting Issues
+If you find a bug or have an idea for improvement, please create an issue.
 
-## Scope
-This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces.
+## Code of Conduct
+By contributing to this project, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
